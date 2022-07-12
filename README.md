@@ -24,6 +24,7 @@
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/rutrika)
 
-[<img align="left" alt="My Website" width="80" src="" />]( http://www.artur-abdullin.com)
+a href="https://artur-abdullin.com">My Website</a>
+
 
 
